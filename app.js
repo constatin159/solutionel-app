@@ -1,0 +1,1 @@
+console.log('Soluția Ta app loaded');
